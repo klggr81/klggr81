@@ -11,15 +11,6 @@ I studied philosophy and hold an MA (Hons.) in Cultural Anthropology with a focu
 
 **Stack:** HTML &middot; CSS/Tailwind &middot; JavaScript &middot; PHP &middot; Python &middot; Rust &middot; Kotlin
 
-**Guidelines** ([manifesto](https://klggr.de/manifesto.php))
-
-- Open Web, open standards and open source
-- Data flow: portable and app-agnostic.
-- Quality: simple, robust, reliable, usable, fast
-- Counter enshittification.
-
-**Selected work:** MediaSort &middot; Text Extractor &middot; HTML Assets Panel &middot; Stadtb&uuml;cherei GL App &middot; WordPress One-File Installer. See the full portfolio at [klggr.de](https://klggr.de).
-
 Away from the keyboard: family, photography, notebooks, sea kayaking, field-recordings.
 
 **Contact:** [klggr.de](https://klggr.de) &middot; [info@klggr.de](mailto:info@klggr.de)
